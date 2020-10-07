@@ -1,0 +1,54 @@
+.body {
+  font-family: "Inter";
+}
+
+.ui.borderless.topmenu.menu {
+  border: none;
+  padding: 30px;
+}
+
+.ui.menu {
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.ui.button {
+  height: 50px;
+  background-color: white;
+}
+
+ui.container {
+  margin: auto;
+}
+
+#main-text {
+  width:90%;
+  text-align: center;
+}
+
+#main-text h1 {
+  margin-top: 80px;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+#main-text p {
+  font-size: 22px;
+  margin-bottom: 60px;
+}
+
+#lower-icons {
+  margin: auto;
+}
+
+#lower-icons .logo {
+  padding: 30px;
+}
+
+.ui.button {
+  background-color: white;
+}
+
+#main-search .ui.fluid.action.input {
+  width: 80%;
+}
