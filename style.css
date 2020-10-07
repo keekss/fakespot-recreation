@@ -52,3 +52,11 @@ ui.container {
 #main-search .ui.fluid.action.input {
   width: 80%;
 }
+
+#footer-row .column {
+  padding: 30px;
+}
+
+#right-footer pre {
+  font-family: "Inter";
+}
